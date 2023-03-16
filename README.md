@@ -1,24 +1,7 @@
-# README
+感谢daqing 视频链接如下： https://space.bilibili.com/410555632/channel/seriesdetail?sid=3044619
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby Rails 7 实战教程【新手入门】之《从零开发搜狗网站》的跟学作业库
 
-Things you may want to cover:
+与视频不同的是，用的是docker ubuntu22 的虚拟环境
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2023-03-16 更新： 第一个helloworld
