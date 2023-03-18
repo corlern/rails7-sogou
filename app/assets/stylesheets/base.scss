@@ -1,6 +1,8 @@
 .nav-link.active {
     color:#FF5A34 !important;
+
   }
+
   .home-header-right-menu {
     color:#999;
     justify-content: center;
@@ -17,10 +19,21 @@
     }
    
   }
-  .logo-container{
+  .home-container{
     width:50%;
     margin: 0 auto;
     
     text-align: center;
-    margin-top: 80px;
+    margin-top: 130px;
+
+    .footer  {
+        margin-top: 400px;
+
+        p {
+            color:#999;
+            font-size: 10px;
+            margin-bottom: 5px;
+        }
+       
+    }
   }
