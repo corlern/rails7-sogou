@@ -16,6 +16,7 @@
 #
 default: &default
   adapter: postgresql
+
   encoding: unicode
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
@@ -26,7 +27,7 @@ development:
   database: rails7_sogou_development
   username: "postgres"
   password: "Immortal2022...."
-  host: 127.0.0.1
+  host: corpostgres
   port: 5432
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
